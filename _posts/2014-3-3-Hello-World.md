@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Devember
+published: true
 ---
+From devember.org
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I, Jarrod Pooler, will participate to the next Devember. My Devember will be a pomodoro timer in ruby. I promise I will program for my Devember for at least an hour, every day of the next December. I will also write a daily public devlog and will make the produced code publicly available on the internet. No matter what, I will keep my promise.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I've got a few timers I use, but need to figure out one that integrates well with the command line and doesn't require the bell.
