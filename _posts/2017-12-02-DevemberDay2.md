@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Devember Day 2
 
@@ -11,4 +11,4 @@ There's also a bunch of logic around progress mid-pomo, which I think defeats th
 
 It's also designed to use a list of tasks, I want a more general purpose timer and will probably also remove this.
 
-I'm hitting some "fun" rake issues because of the version of ruby used, which took a bit to figure out. 
+I'm hitting some "fun" rake issues because of the version of ruby used, which took a bit to figure out.
