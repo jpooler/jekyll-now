@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Devember Day 2
+## Ruby is fun
 
 I found a couple of ruby repo's doing what I wanted, but the current state is mixed with the main one lacking updates for a few years. I cloned a fork and am getting familiar with the various libraries and plan to extend them/push changes up to github.
 
