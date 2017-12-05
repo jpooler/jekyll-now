@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Missed a day, but still making progress
 
