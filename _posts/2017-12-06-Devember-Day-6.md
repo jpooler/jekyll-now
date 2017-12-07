@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Ruby Ruby Ruby Ruby, Ruby Over Here!
